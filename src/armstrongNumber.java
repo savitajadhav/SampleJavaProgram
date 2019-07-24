@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class armstrongNumber {
+public class ArmstrongNumber {
 
 	public static void main(String[] args) {
 

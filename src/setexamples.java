@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class setexamples {
+public class Setexamples {
 
 	public static void main(String[] args) {
 		

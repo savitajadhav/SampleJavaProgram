@@ -8,7 +8,7 @@ c             004
 ================================
  */
 
-public class formattedoutput {
+public class FormattedOutput {
 	
 
 	public static void main(String[] args) {

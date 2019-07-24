@@ -1,5 +1,5 @@
 
-public class additionOfArray {
+public class AdditionOfArray {
 
 	public static void main(String[] args) {
 

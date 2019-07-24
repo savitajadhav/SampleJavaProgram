@@ -1,5 +1,5 @@
 
-public class constructorexample {
+public class ConstructorExample {
 
 	public static void main(String[] args) {
 		Rectanglearea r1 = new Rectanglearea();

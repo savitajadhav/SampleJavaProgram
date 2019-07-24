@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class factorialNumber {
+public class FactorialNumber {
 	
 	public static void factorial()
 	{

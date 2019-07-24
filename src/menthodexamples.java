@@ -1,5 +1,5 @@
 
-public class menthodexamples {
+public class MenthodExamples {
 
 	public static void main(String[] args) {
 	/*	String result;
